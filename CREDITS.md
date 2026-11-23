@@ -23,4 +23,4 @@ Not yet sourced: realistic downloaded models for the old sedan and the van (curr
 - Weapon/tool code, particles, decals, procedural gun/explosion/foley sounds (Web Audio, no samples): original work (`game/src/weapons`, `game/src/tools`).
 
 ## Character animation (game/public/anim, game/assets-src/quaternius)
-- **Universal Animation Library [Standard]** (Godot GLB, 46 clips; 31 kept, retargeted to the game rig by `game/tools/anim/retarget.mjs`): by **Quaternius** (https://quaternius.com, https://www.patreon.com/quaternius), **CC0 1.0**. Licence text: `game/assets-src/quaternius/License.txt`.
+- **Universal Animation Library [Standard]** (Godot GLB, 46 clips; 30 kept, retargeted to the game rig by `game/tools/anim/retarget.mjs`): by **Quaternius** (https://quaternius.com, https://www.patreon.com/quaternius), **CC0 1.0**. Licence text: `game/assets-src/quaternius/License.txt`.
