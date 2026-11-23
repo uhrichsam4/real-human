@@ -1,0 +1,1 @@
+export{n as KIND,t as createGoreSystem}from"./gore-BJZyf1_0.js";

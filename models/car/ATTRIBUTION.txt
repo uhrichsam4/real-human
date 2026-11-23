@@ -1,0 +1,5 @@
+"Car Concept" by Eric Chadwick, Darmstadt Graphics Group GmbH, 2024
+Source: https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/CarConcept
+License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
+The licence excludes the Khronos and 3D Commerce logos/trademarks: remove or replace logo textures before shipping.
+Must appear in the game's credits.

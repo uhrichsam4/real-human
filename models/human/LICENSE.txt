@@ -1,0 +1,7 @@
+Human assets (Track C)
+- *_body.glb, *_clothes.glb (shoes), tex/skin_*, tex/eye_*, tex/brow_*, tex/lashes, tex/hair_*, tex/shoes*:
+  derived from the MakeHuman / MPFB2 system assets, CC0 1.0 (makehumancommunity.org).
+- *_interior.glb: derived from Z-Anatomy (Lluis Vinent Juanico / Z-Anatomy project, based on BodyParts3D (c) DBCLS),
+  https://github.com/LluisV/Z-Anatomy, licensed CC BY-SA 4.0. These derived meshes are released under CC BY-SA 4.0.
+- Garment shells (*_clothes.glb except shoes), tex/fab_*, tex/tis_*, tex/skin_detail_n, tex/skin_*_n: original, made for this project.
+See /CREDITS.md.

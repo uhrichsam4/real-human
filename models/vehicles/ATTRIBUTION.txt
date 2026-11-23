@@ -1,0 +1,3 @@
+sedan.glb, van.glb: original models built for this project in Blender 5.1 by tools/vehicles/build_vehicles.py
+(sources: assets-src/vehicles/*.blend). Period-style designs with no real badges, logos or brand names; the plate
+numbers are fictional. No third-party assets or textures are used.
